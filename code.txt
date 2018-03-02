@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(void)
+{
+    # hello from me
+    return 0;
+}
